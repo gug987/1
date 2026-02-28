@@ -1,9 +1,7 @@
-# 声明 
-源码只供学习使用，如用于商业活动与本人无关，请勿将系统用于非法业务
 
-## golangpay 聚合支付系统 四方支付系统 四方源码 golang源码 第四方支付平台 三方平台，uid平台，页游平台
+## 四方支付系统 四方支付源码 聚合支付系统 golang源码 第四方支付平台 三方平台，uid平台，页游平台
 
-go语言支付系统在线体验 演示地址：
+golangpay四方支付系统在线体验 演示地址：
 
 运营端：https://homea.golangpay.com 
 
@@ -70,7 +68,7 @@ golang-z-api-base 支付接口的基础包
 # 四方支付系统介绍
 巨海四方支付系统是go语言开发支持多商户、多通道、能够自由进行对接配置、集成telegram机器人服务的聚合支付系统
 
-## 商务合作请联系飞机：[tianxiex](https://t.me/tianxiex)
+## 商务合作请联系飞机：[golangpay](https://t.me/golangpay)
 
 ## 系统简介
 ## 运营端：四方运营人员、系统购买方
@@ -236,7 +234,7 @@ TG机器人在运营端中机器人管理界面
 
 ### 商务合作
 
-请联系飞机：[tianxiex](https://t.me/tianxiex)
+请联系飞机：[golangpay](https://t.me/golangpay)
 
 
 
